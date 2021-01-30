@@ -23,7 +23,8 @@ menu_primary = "#A6E1F4" # 2nd
 #menu_text = "#fff"
 menu_text = "#000000"
 menu_text_active = "#ffeb3b" # Material Complemantary 500
-menu_title = "#fff"
+#menu_title = "#fff"
+menu_title = "#00A9E0"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"

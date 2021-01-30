@@ -1,14 +1,25 @@
 # Theme metadata
 name = "UniKNtheme"
 
+# -----------------------------------------------------------------------------
+# UniKN - Farben Web
+# -----------------------------------------------------------------------------
+# "#CCEEF9" # 1st
+# "#A6E1F4" # 2nd
+# "#59C7EB" # 3rd
+# "#00A9E0" # 4th
+# -----------------------------------------------------------------------------
+
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#3f51b5"
+# primary = "#3f51b5"
+primary = "#59C7EB" # 3rd
 
 # Menu
-menu_primary = "#3f51b5" # Material 500
+# menu_primary = "#3f51b5" # Material 500
+menu_primary = "#A6E1F4" # 2nd
 menu_text = "#fff"
 menu_text_active = "#ffeb3b" # Material Complemantary 500
 menu_title = "#fff"

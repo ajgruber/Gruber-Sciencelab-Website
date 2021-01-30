@@ -18,9 +18,9 @@ primary = "#00A9E0" # 3rd
 
 # Menu
 # Background color of the title / menu bar
-menu_primary = "#A6E1F4" # 2nd
+menu_primary = "#59C7EB" # 3rd
 # Text color of the menu items
-menu_text = "#00A9E0"
+menu_text = "#000000"
 # Text color of the active menu items
 menu_text_active = "#000000" # 4th
 # Text color of the menu title

@@ -16,6 +16,7 @@
 #theme = "minimal"
 #theme = "ocean"
 #theme = "UniKNtheme"
+#theme = "unikntheme"
 theme = "my_theme"
 
 # Enable users to switch between day and night mode?

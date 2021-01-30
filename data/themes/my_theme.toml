@@ -14,18 +14,13 @@ name = "UniKNtheme"
 light = true
 
 # Primary
-# primary = "#3f51b5"
-primary = "#59C7EB" # 3rd
+primary = "#00A9E0" # 3rd
 
 # Menu
-# menu_primary = "#3f51b5" # Material 500
 menu_primary = "#A6E1F4" # 2nd
-#menu_text = "#fff"
-menu_text = "#000000"
-#menu_text_active = "#ffeb3b" # Material Complemantary 500
+menu_text = "#00A9E0"
 menu_text_active = "#00A9E0" # 4th
-#menu_title = "#fff"
-menu_title = "#00A9E0"
+menu_title = "#000000"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"

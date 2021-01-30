@@ -17,9 +17,10 @@ light = true
 primary = "#00A9E0" # 3rd
 
 # Menu
-menu_primary = "#A6E1F4" # 2nd
+#menu_primary = "#A6E1F4" # 2nd
+meny_primary = "#00FF00"
 menu_text = "#00A9E0"
-menu_text_active = "#00A9E0" # 4th
+menu_text_active = "#000000" # 4th
 menu_title = "#000000"
 
 # Home sections

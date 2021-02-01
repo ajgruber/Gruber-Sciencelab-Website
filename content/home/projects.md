@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Ongoing Projects"
+title = "Current Projects"
 subtitle = ""
 
 [content]
@@ -19,23 +19,23 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  #filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  #[[content.filter_button]]
+  #  name = "All"
+  #  tag = "*"
       
-  [[content.filter_button]]
-    name = "Cancer Genomics"
-    tag = "genomics"
+  #[[content.filter_button]]
+  #  name = "Cancer Genomics"
+  #  tag = "genomics"
 
-  [[content.filter_button]]
-    name = "Cancer Transcriptomics"
-    tag = "transcriptomics"
+  #[[content.filter_button]]
+  #  name = "Cancer Transcriptomics"
+  #  tag = "transcriptomics"
   
-  [[content.filter_button]]
-    name = "3' end processing"
-    tag = "APA"
+  #[[content.filter_button]]
+  #  name = "3' end processing"
+  #  tag = "APA"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -9,7 +9,8 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Systems Biology & Biomedical Data Science Laboratory"
-subtitle = "We develop and apply data science approaches to study the regulation of gene activity in health and disease."
+#subtitle = "We develop and apply data science approaches to study the regulation of gene activity in health and disease."
+subtitle = "We develop and apply data science approaches to study gene activity regulation in health and disease."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -24,18 +24,18 @@ subtitle = "We develop and apply data science approaches to study the regulation
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  ##color = "white"
   
   # Background gradient.
-  #gradient_start = "DarkGreen"
-  #gradient_end = "ForestGreen"
+  gradient_start = "#000000"
+  gradient_end = "#A6E1F4"
   
   # Background image.
-  image = "hero_background.png"  # Name of image in `static/media/`.
-  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  ##image = "hero_background.png"  # Name of image in `static/media/`.
+  ##image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  ##image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  ##image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  ##image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = false

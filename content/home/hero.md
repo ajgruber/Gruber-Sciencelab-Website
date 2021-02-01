@@ -27,8 +27,8 @@ subtitle = "We develop and apply data science approaches to study the regulation
   ##color = "white"
   
   # Background gradient.
-  gradient_start = "#000000"
-  gradient_end = "#A6E1F4"
+  gradient_start = "#A6E1F4"
+  gradient_end = "#FFFFFF"
   
   # Background image.
   ##image = "hero_background.png"  # Name of image in `static/media/`.

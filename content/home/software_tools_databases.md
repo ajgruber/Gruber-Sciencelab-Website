@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Data Science Tools & Databases"
+title = "Software, Tools & Databases"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "software"
+  page_type = "software_tools_databases"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

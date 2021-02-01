@@ -18,13 +18,13 @@ primary = "#00A9E0" # 3rd
 
 # Menu
 # Background color of the title / menu bar
-menu_primary = "#A6E1F4" # 2nd
+menu_primary = "#00A9E0" # 2nd
 # Text color of the menu items
-menu_text = "#000000"
+menu_text = "#FFFFFF"
 # Text color of the active menu items
-menu_text_active = "#000000" # 4th
+menu_text_active = "#FFFFFF" # 4th
 # Text color of the menu title
-menu_title = "#000000"
+menu_title = "#FFFFFF"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"

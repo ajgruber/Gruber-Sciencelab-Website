@@ -5,19 +5,19 @@ title: "Alternative cleavage and polyadenylation in health and disease"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Andreas J. Gruber
+- Mihaela Zavolan
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Equal contribution and corresponding author"
+- "Equal contribution and corresponding author"
 
 date: "2019-10-01T00:00:00Z"
 doi: "10.1038/s41576-019-0145-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

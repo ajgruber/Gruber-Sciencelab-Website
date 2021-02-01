@@ -9,8 +9,6 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Systems Biology & Biomedical Data Science Laboratory"
-#subtitle = "We develop data science tools and approaches to improve our understanding of the molecular foundations of health and disease"
-#subtitle = "We develop and apply data science approaches to study the regulation of gene activity in health and disease"
 subtitle = "We develop and apply data science approaches to study the regulation of gene activity in health and disease."
 
 [design]
@@ -24,11 +22,11 @@ subtitle = "We develop and apply data science approaches to study the regulation
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  ##color = "white"
+  color = "#FFFFFF"
   
   # Background gradient.
-  gradient_start = "#A6E1F4"
-  gradient_end = "#FFFFFF"
+  ##gradient_start = "#A6E1F4"
+  ##gradient_end = "#FFFFFF"
   
   # Background image.
   ##image = "hero_background.png"  # Name of image in `static/media/`.

@@ -24,8 +24,9 @@ menu_text = "#FFFFFF"
 # Text color of the active menu items
 menu_text_active = "#FFFFFF" # 4th
 # Text color of the menu title
-menu_title = "#FFFFFF"
+menu_title = "#000000"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_even = "rgb(255, 255, 255)"
+#home_section_even = "rgb(247, 247, 247)"

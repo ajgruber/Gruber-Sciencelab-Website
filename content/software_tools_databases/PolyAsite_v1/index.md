@@ -18,7 +18,7 @@ links:
 - name: PolyASite
   url: https://polyasite.unibas.ch
 tags:
-- databases
+- main
 url_code: ""
 url_pdf: ""
 url_slides: ""

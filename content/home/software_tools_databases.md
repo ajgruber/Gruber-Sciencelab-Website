@@ -24,22 +24,30 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Main/Corresponding Author"
+    tag = "main"
+
+  [[content.filter_button]]
+    name = "Contributing Author"
+    tag = "contribution"
       
-  [[content.filter_button]]
-    name = "Software Tools"
-    tag = "softwaretools"
+  #[[content.filter_button]]
+  #  name = "Software Tools"
+  #  tag = "softwaretools"
 
-  [[content.filter_button]]
-    name = "Databases"
-    tag = "databases"
+  #[[content.filter_button]]
+  #  name = "Databases"
+  #  tag = "databases"
 
-  [[content.filter_button]]
-    name = "Webservers"
-    tag = "webservers"
+  #[[content.filter_button]]
+  #  name = "Webservers"
+  #  tag = "webservers"
     
-  [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "machine_learning"
+  #[[content.filter_button]]
+  #  name = "Machine Learning"
+  #  tag = "machine_learning"
     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

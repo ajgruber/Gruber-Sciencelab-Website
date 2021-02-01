@@ -30,6 +30,21 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
+
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Main/Corresponding Author"
+    tag = "main"
+
+  [[content.filter_button]]
+    name = "Contributing Author"
+    tag = "contribution"
   
 [design]
   # Toggle between the various page layout types.

@@ -27,27 +27,27 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Main/Corresponding Authorship(s)"
-    tag = "Main and/or Corresponding Authorship(s)"
+    tag = "Main/Corresponding Authorship(s)"
 
   [[content.filter_button]]
     name = "Contributing Authorship(s)"
     tag = "Contributing Authorship(s)"
       
-  #[[content.filter_button]]
-  #  name = "Software Tools"
-  #  tag = "Software Tools"
+  [[content.filter_button]]
+    name = "Software Tools"
+    tag = "Software Tools"
 
-  #[[content.filter_button]]
-  #  name = "Databases"
-  #  tag = "Databases"
+  [[content.filter_button]]
+    name = "Databases"
+    tag = "Databases"
 
-  #[[content.filter_button]]
-  #  name = "Webservers"
-  #  tag = "Webservers"
+  [[content.filter_button]]
+    name = "Webservers"
+    tag = "Webservers"
     
-  #[[content.filter_button]]
-  #  name = "Machine Learning"
-  #  tag = "Machine Learning"
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

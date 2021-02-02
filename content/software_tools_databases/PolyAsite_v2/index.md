@@ -20,7 +20,7 @@ links:
 - name: Publication
   url: https://academic.oup.com/nar/article/48/D1/D174/5588346
 tags:
-- "Contributing Authorship(s)"
+- "ContributingAuthorship"
 - "Databases"
 url_code: ""
 url_pdf: ""

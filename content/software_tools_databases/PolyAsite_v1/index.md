@@ -15,10 +15,13 @@ image:
   caption: 
   focal_point: Smart
 links:
-- name: PolyASite
+- name: Website
   url: https://polyasite.unibas.ch
+- name: Publication
+  url: https://genome.cshlp.org/content/26/8/1145.long
 tags:
-- main
+- "Main/Corresponding Authorship(s)"
+- "Databases"
 url_code: ""
 url_pdf: ""
 url_slides: ""

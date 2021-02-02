@@ -26,28 +26,28 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Main/Corresponding Author"
-    tag = "main"
+    name = "Main/Corresponding Authorship(s)"
+    tag = "Main and/or Corresponding Authorship(s)"
 
   [[content.filter_button]]
-    name = "Contributing Author"
-    tag = "contribution"
+    name = "Contributing Authorship(s)"
+    tag = "Contributing Authorship(s)"
       
   #[[content.filter_button]]
   #  name = "Software Tools"
-  #  tag = "softwaretools"
+  #  tag = "Software Tools"
 
   #[[content.filter_button]]
   #  name = "Databases"
-  #  tag = "databases"
+  #  tag = "Databases"
 
   #[[content.filter_button]]
   #  name = "Webservers"
-  #  tag = "webservers"
+  #  tag = "Webservers"
     
   #[[content.filter_button]]
   #  name = "Machine Learning"
-  #  tag = "machine_learning"
+  #  tag = "Machine Learning"
     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

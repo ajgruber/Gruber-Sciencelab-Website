@@ -15,10 +15,14 @@ image:
   caption: 
   focal_point: Smart
 links:
-- name: TECtool
+- name: Website
   url: http://tectool.unibas.ch
+- name: Publication
+  url: https://www.nature.com/articles/s41592-018-0114-z
 tags:
-- main
+- "Main and/or Corresponding Authorship(s)"
+- "Software Tools"
+- "Machine Learning"
 url_code: ""
 url_pdf: ""
 url_slides: ""

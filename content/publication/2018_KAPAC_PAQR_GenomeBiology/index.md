@@ -40,7 +40,7 @@ abstract: 3' Untranslated regions (3' UTRs) length is regulated in relation to c
 summary: 
 
 tags:
- - "MainAndOrCorrespondingAuthorship"s
+ - "MainAndOrCorrespondingAuthorship"
 
 # Display this page in the Featured widget?
 featured: true

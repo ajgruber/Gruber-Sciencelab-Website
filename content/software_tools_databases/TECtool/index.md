@@ -1,6 +1,6 @@
 ---
 title: TECtool
-summary: TECtool (Terminal Exon Characterization tool) is a Machine Learning-based annotation software (implemented in Python) that makes use of RNA sequencing (RNA-seq) data to identify novel terminal exons, infer novel transcript isoforms and annotate potential coding sequences.
+summary: TECtool (Terminal Exon Characterization tool) is a machine learning-based annotation software (implemented in Python) that makes use of RNA sequencing (RNA-seq) data to identify novel terminal exons, infer novel transcript isoforms and annotate potential coding sequences.
 
 #authors:
 # - stefan_dentro

@@ -26,11 +26,11 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Main/Corresponding Authorship(s)"
+    name = "Main and Corresponding Authorships"
     tag = "MainCorrespondingAuthorship"
 
   [[content.filter_button]]
-    name = "Contributing Authorship(s)"
+    name = "Contributing Authorships"
     tag = "ContributingAuthorship"
       
   #[[content.filter_button]]

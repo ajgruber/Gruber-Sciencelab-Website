@@ -20,7 +20,7 @@ links:
 - name: Publication
   url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1415-3
 tags:
-- "MainCorrespondingAuthorship"
+- "MainAndOrCorrespondingAuthorship"
 - "SoftwareTools"
 url_code: ""
 url_pdf: ""

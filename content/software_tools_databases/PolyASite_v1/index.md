@@ -20,7 +20,7 @@ links:
 - name: Publication
   url: https://genome.cshlp.org/content/26/8/1145.long
 tags:
-- "MainCorrespondingAuthorship"
+- "MainAndOrCorrespondingAuthorship"
 - "Databases"
 url_code: ""
 url_pdf: ""

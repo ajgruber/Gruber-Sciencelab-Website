@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Main and Corresponding Authorships"
-    tag = "MainCorrespondingAuthorship"
+    tag = "MainAndOrCorrespondingAuthorship"
 
   [[content.filter_button]]
     name = "Contributing Authorships"

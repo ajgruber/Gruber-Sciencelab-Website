@@ -40,12 +40,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Main/Corresponding Author"
-    tag = "main"
+    name = "Main and Corresponding Authorships"
+    tag = "MainAndOrCorrespondingAuthorship"
 
   [[content.filter_button]]
-    name = "Contributing Author"
-    tag = "contribution"
+    name = "Contributing Authorships"
+    tag = "ContributingAuthorship"
   
 [design]
   # Toggle between the various page layout types.

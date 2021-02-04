@@ -20,7 +20,7 @@ links:
 - name: Publication
   url: https://www.nature.com/articles/s41592-018-0114-z
 tags:
-- "MainCorrespondingAuthorship"
+- "MainAndOrCorrespondingAuthorship"
 - "SoftwareTools"
 - "MachineLearning"
 url_code: ""

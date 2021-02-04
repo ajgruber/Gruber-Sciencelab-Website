@@ -34,7 +34,7 @@ abstract: Most human genes have multiple sites at which RNA 3' end cleavage and 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
  - "MainAndOrCorrespondingAuthorship"
 
 # Display this page in the Featured widget?

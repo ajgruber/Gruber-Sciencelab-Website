@@ -37,7 +37,7 @@ abstract: Sequencing of RNA 3' ends has uncovered numerous sites that do not cor
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags:
  - "MainAndOrCorrespondingAuthorship"
 
 # Display this page in the Featured widget?

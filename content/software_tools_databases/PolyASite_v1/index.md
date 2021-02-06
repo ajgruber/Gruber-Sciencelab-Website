@@ -9,8 +9,8 @@ summary: A comprehensive repository for 3' end processing sites based on a unifo
 # - nansari_pour
 
 #date: "2016-05-14"
-#lastmod: "2016-05-14"
-external_link: https://polyasite.unibas.ch
+lastmod: "2016-05-14"
+external_link: 
 image:
   caption: 
   focal_point: Smart

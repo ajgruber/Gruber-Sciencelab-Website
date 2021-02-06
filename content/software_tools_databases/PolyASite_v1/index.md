@@ -8,8 +8,8 @@ summary: A comprehensive repository for 3' end processing sites based on a unifo
 # - jdemeul
 # - nansari_pour
 
-#date: "2012-05-25"
-lastmod: "2016-05-14"
+date: "2016-05-14"
+#lastmod: "2016-05-14"
 external_link: 
 image:
   caption: 

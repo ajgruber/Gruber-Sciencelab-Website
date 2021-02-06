@@ -6,9 +6,6 @@ widget: contact
 # This file represents a page section.
 headless: true
 
-# Is the widget active
-active = true  # Activate this widget? true/false
-
 # Order that this section appears on the page.
 weight: 120
 

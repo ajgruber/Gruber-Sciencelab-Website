@@ -1,8 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-#widget: pages
-widget: featured
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -15,7 +14,7 @@ subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: software_tools_databases #research
+  page_type: research # software_tools_databases
   # Choose how many pages you would like to display (0 = all pages)
   count: 4
   # Filter on criteria

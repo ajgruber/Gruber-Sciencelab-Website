@@ -12,7 +12,7 @@ title: Data Science Approaches, Software Tools & Databases
 ##  postcode: '94305'
 ##  country: United States
 
-summary: We are developing ...
+summary: We are developing data science approaches, software tools and databases that allow to better understand the regulation of gene expression in health and disease.
 abstract: This is the abstract
 
 # Talk start and end times.
@@ -60,6 +60,21 @@ image:
 ##- example
 ---
 
-This is common text.
+To identify the upstream regulators that cause global changes in 3' processing, we have developed a statistical learning approach, termed KAPAC, which models transcript 3' end isoform usage in terms of binding sites of regulators. Making use of KAPAC we were able to identify regulators that can explain the global shortening of transcript length observed in the vast majority of human cancers. Our study was seminal to the field as it uncovered the long-sought RNA-binding protein that causes global transcript shortening in glioblastoma (Gruber et al., Genome Biology, 2018). 
+
+We have also developed a computational tool, TECtool, which makes use of a Bayes classifier in order to identify previously uncharacterized transcript isoforms that are ending within genomic regions currently annotated as 'intronic'. Applying TECtool to single-cell sequencing data, we found that the newly identified isoforms were expressed in subpopulations of cells (Gruber et al., Nature Methods, 2018).
+
+As for transcript 3' ends there was no sufficient annotation available in the human genome, in 2016 we collected the vast majority of available 3' end sequencing datasets, developed a uniform processing pipeline for over a dozen different 3' end sequencing protocols and published the PolyASite database, which is a comprehensive resource of transcript 3' ends in human and mouse (Gruber et al., Genome Research, 2016). More recently, we have updated our database (PolyASite v2.0) and extended it to also cover worm (Herrmann et al., Nucleic Acids Research, 2020).
+
+With the aim to model gene expression regulation, we have contributed towards the development of multiple computational tools, such as the Integrated System for Motif Activity Response Analysis (ISMARA), which enables the identification of transcription factors and epigenetic regulators, as well as associated regulatory circuitries that can explain global gene expression changes (Balwierz et al., Genome Research, 2014). Further, we have extended this approach by small regulatory RNAs (microRNAs) in order to study their role in embryonic stem cells (Gruber et al., Nucleic Acids Research, 2014).
+
+
+
+
+
+
+
+
+
 
 

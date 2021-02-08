@@ -12,7 +12,7 @@ title = "Systems Biology & Biomedical Data Science Laboratory"
 #subtitle = "We develop and apply data science approaches to study the regulation of gene activity in health and disease."
 #subtitle = "We develop and apply data science approaches to study gene activity regulation in health and disease."
 #subtitle = "We develop and apply data science approaches to understand gene activity regulation in health and disease."
-subtitle = "We develop and apply data science approaches to understand the regulation of gene activity in health and disease."
+subtitle = "We develop and apply data science approaches to understand gene activity regulation in health and disease."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -84,7 +84,7 @@ subtitle = "We develop and apply data science approaches to understand the regul
   # ---------------------------------------------------------------------------
   # Background image.
   image = "HeroV10.jpg"
-  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # ---------------------------------------------------------------------------
   # Contain: it takes the image and fits it into some format, so the image is CONTAINED within this format (so the longest edge must fit within their format)
   # Cover: it takes the image so it COVERS this format.

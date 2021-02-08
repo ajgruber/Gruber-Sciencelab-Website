@@ -30,22 +30,38 @@ subtitle = "We develop and apply data science approaches to understand the regul
   # Background gradient.
   ##gradient_start = "#A6E1F4"
   ##gradient_end = "#FFFFFF"
-  
-  # Background image.
-  image = "home.jpg"  # Name of image in `static/media/`.
-  ######image = "home_centered.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
+  # ___________________________________________________________________________
+  # ---------------------------------------------------------------------------
+  # Version 1
+  # ---------------------------------------------------------------------------
+  # Background image.
+  image = "HeroV6_no_cols.jpg"
+  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # ---------------------------------------------------------------------------
   # Contain: it takes the image and fits it into some format, so the image is CONTAINED within this format (so the longest edge must fit within their format)
   # Cover: it takes the image so it COVERS this format.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
+  # ___________________________________________________________________________
+  # ---------------------------------------------------------------------------
+  # Version 2
+  # ---------------------------------------------------------------------------
+  # Background image.
+  ##image = "home.jpg"  # Name of image in `static/media/`.
+  ##image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # ---------------------------------------------------------------------------
+  # Contain: it takes the image and fits it into some format, so the image is CONTAINED within this format (so the longest edge must fit within their format)
+  # Cover: it takes the image so it COVERS this format.
+  ##image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   ##image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   ##image_position = "center"  # Options include `left`, `center` (default), or `right`.
   ##image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
   # Text color (true=light or false=dark).
-  text_color_light = false
+  ##text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.

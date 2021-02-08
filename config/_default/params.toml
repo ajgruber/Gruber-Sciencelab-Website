@@ -101,7 +101,8 @@ address = {street = "Universitaetsstraße 10", city = "Konstanz", region = "Bade
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.690939", longitude = "9.188069"}
+##coordinates = {latitude = "47.690939", longitude = "9.188069"}
+coordinates = {latitude = "47.689657", longitude = "9.191148"}
 
 # Directions for visitors to locate you.
 ##directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

@@ -84,6 +84,21 @@ subtitle = "We develop and apply data science approaches to understand gene acti
   # ---------------------------------------------------------------------------
   # Background image.
   image = "HeroV10.jpg"
+  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # ---------------------------------------------------------------------------
+  # Contain: it takes the image and fits it into some format, so the image is CONTAINED within this format (so the longest edge must fit within their format)
+  # Cover: it takes the image so it COVERS this format.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"
+  # Text color (true=light or false=dark).
+  text_color_light = false
+
+  # ___________________________________________________________________________
+  # ---------------------------------------------------------------------------
+  # Version 4 - Sky + White Characters
+  # ---------------------------------------------------------------------------
+  # Background image.
+  image = "HeroV10.jpg"
   image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # ---------------------------------------------------------------------------
   # Contain: it takes the image and fits it into some format, so the image is CONTAINED within this format (so the longest edge must fit within their format)
@@ -92,6 +107,7 @@ subtitle = "We develop and apply data science approaches to understand gene acti
   image_position = "center"
   # Text color (true=light or false=dark).
   text_color_light = true
+
 
 
 

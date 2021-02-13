@@ -1,6 +1,6 @@
 ---
 title: PAQR
-summary: PAQR (implemented in Python), standing for polyadenylation site usage quantification from RNA sequencing data, allows to quantify 3' end usage from standard RNA sequencing libraries. 
+summary: PAQR, standing for polyadenylation site usage quantification from RNA sequencing data, allows to quantify 3' end usage from standard RNA sequencing libraries. 
 
 #authors:
 # - stefan_dentro
@@ -20,7 +20,7 @@ links:
 - name: Publication
   url: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1415-3
 tags:
-- "MainAndOrCorrespondingAuthorship"
+- "MainAuthorship"
 - "SoftwareTools"
 url_code: ""
 url_pdf: ""

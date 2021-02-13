@@ -47,9 +47,9 @@ subtitle = ""
     name = "Contributing Authorships"
     tag = "ContributingAuthorship"
   
-  [[content.filter_button]]
-    name = "Data Science Tools"
-    tag = "DataScienceTools"
+#  [[content.filter_button]]
+#    name = "Data Science Tools"
+#    tag = "DataScienceTools"
 
   [[content.filter_button]]
     name = "Gene Regulation"

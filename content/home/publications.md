@@ -46,10 +46,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Contributing Authorships"
     tag = "ContributingAuthorship"
-  
-#  [[content.filter_button]]
-#    name = "Data Science Tools"
-#    tag = "DataScienceTools"
 
   [[content.filter_button]]
     name = "Gene Regulation"
@@ -62,7 +58,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Immunology"
     tag = "Immunology"
-
+  
+#  [[content.filter_button]]
+#    name = "Data Science Tools"
+#    tag = "DataScienceTools"
 
 [design]
   # Toggle between the various page layout types.

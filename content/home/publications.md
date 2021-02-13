@@ -40,13 +40,30 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Main and Corresponding Authorships"
+    name = "Main Authorships"
     tag = "MainAndOrCorrespondingAuthorship"
 
   [[content.filter_button]]
     name = "Contributing Authorships"
     tag = "ContributingAuthorship"
   
+  [[content.filter_button]]
+    name = "Data Science Tools"
+    tag = "DataScienceTools"
+
+  [[content.filter_button]]
+    name = "Gene Regulation"
+    tag = "GeneRegulation"
+
+  [[content.filter_button]]
+    name = "Cancer"
+    tag = "Cancer"
+
+  [[content.filter_button]]
+    name = "Immunology"
+    tag = "Immunology"
+
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List

@@ -9,9 +9,9 @@ authors:
 - Mihaela Zavolan
 
 # Author notes (optional)
-author_notes:
-- "Corresponding author & equal contribution"
-- "Corresponding author & equal contribution"
+##author_notes:
+##- "Corresponding author & equal contribution"
+##- "Corresponding author & equal contribution"
 
 date: "2019-10-01T00:00:00Z"
 doi: "10.1038/s41576-019-0145-z"
@@ -35,7 +35,10 @@ abstract: Most human genes have multiple sites at which RNA 3' end cleavage and 
 summary: 
 
 tags:
- - "MainAndOrCorrespondingAuthorship"
+ - "MainAuthorship"
+ - "GeneRegulation"
+ - "Cancer"
+ - "Immunology"
 
 # Display this page in the Featured widget?
 featured: true

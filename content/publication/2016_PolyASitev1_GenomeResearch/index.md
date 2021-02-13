@@ -41,7 +41,10 @@ abstract: Alternative polyadenylation (APA) is a general mechanism of transcript
 summary: 
 
 tags:
- - "MainAndOrCorrespondingAuthorship"
+ - "MainAuthorship"
+ - "GeneRegulation"
+ - "Immunology"
+ - "Cancer"
 
 # Display this page in the Featured widget?
 featured: true

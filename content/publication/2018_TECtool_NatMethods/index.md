@@ -12,9 +12,9 @@ authors:
 - Mihaela Zavolan
 
 # Author notes (optional)
-author_notes:
-- "Corresponding author & equal contribution"
-- "Corresponding author & equal contribution"
+##author_notes:
+##- "Corresponding author & equal contribution"
+##- "Corresponding author & equal contribution"
 
 date: "2018-10-15T00:00:00Z"
 doi: "10.1038/s41592-018-0114-z"
@@ -38,7 +38,9 @@ abstract: Sequencing of RNA 3' ends has uncovered numerous sites that do not cor
 summary: 
 
 tags:
- - "MainAndOrCorrespondingAuthorship"
+ - "MainAuthorship"
+ - "GeneRegulation"
+ - "Immunology"
 
 # Display this page in the Featured widget?
 featured: true

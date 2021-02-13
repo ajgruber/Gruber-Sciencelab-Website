@@ -8,10 +8,9 @@ authors:
 - Piotr J. Balwierz
 - Mikhail Pachkov
 - Phil Arnold
-- Andreas J Gruber
+- Andreas J. Gruber
 - Mihaela Zavolan
 - Erik van Nimwegen
-
 
 # Author notes (optional)
 #author_notes:
@@ -42,6 +41,9 @@ summary:
 
 tags:
  - "ContributingAuthorship"
+ - "GeneRegulation"
+ - "Cancer"
+ - "Immunology"
 
 # Display this page in the Featured widget?
 featured: true

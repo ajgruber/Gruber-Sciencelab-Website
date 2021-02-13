@@ -47,6 +47,8 @@ summary:
 
 tags:
  - "ContributingAuthorship"
+ - "Immunology"
+ - "GeneRegulation"
 
 # Display this page in the Featured widget?
 featured: true

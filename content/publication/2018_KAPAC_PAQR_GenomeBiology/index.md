@@ -15,8 +15,8 @@ authors:
 
 # Author notes (optional)
 #author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2018-03-28T00:00:00Z"
 doi: "10.1186/s13059-018-1415-3"
@@ -40,7 +40,9 @@ abstract: 3' Untranslated regions (3' UTRs) length is regulated in relation to c
 summary: 
 
 tags:
- - "MainAndOrCorrespondingAuthorship"
+ - "MainAuthorship"
+ - "GeneRegulation"
+ - "Cancer"
 
 # Display this page in the Featured widget?
 featured: true

@@ -1,6 +1,6 @@
 ---
 title: 100'000 Genomes Project
-summary: The 100'000 Genomes project has whole-genome sequenced thousands of cancers through Genomics England. 
+summary: Analysis of whole genomes of thousands of cancers sequenced through Genomics England. 
 
 #date: "2020-04-27T00:00:00Z"
 #authors: 

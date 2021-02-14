@@ -1,17 +1,11 @@
 ---
-title: "Embryonic stem cell-specific microRNAs contribute to pluripotency by inhibiting regulators of multiple differentiation pathways"
+title: "Modulation of epigenetic regulators and cell fate decisions by miRNAs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Andreas J. Gruber
-- William A. Grandy
-- Piotr J. Balwierz
-- Yoana A. Dimitrova
-- Mikhail Pachkov
-- Constance Ciaudo
-- Erik van Nimwegen
 - Mihaela Zavolan
 
 # Author notes (optional)
@@ -19,11 +13,11 @@ authors:
 #- "Corresponding author & equal contribution"
 #- "Corresponding author & equal contribution"
 
-date: "2014-07-16T00:00:00Z"
-doi: "10.1093/nar/gku544"
+date: "2013-12-05T00:00:00Z"
+doi: "10.2217/epi.13.65"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2014-07-16T00:00:00Z"
+publishDate: "2013-12-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +26,10 @@ publishDate: "2014-07-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Nucleic Acids Research
-publication_short: Nucleic Acids Res
+publication: Epigenomics
+publication_short: Epigenomics
 
-abstract: The findings that microRNAs (miRNAs) are essential for early development in many species and that embryonic miRNAs can reprogram somatic cells into induced pluripotent stem cells suggest that these miRNAs act directly on transcriptional and chromatin regulators of pluripotency. To elucidate the transcription regulatory networks immediately downstream of embryonic miRNAs, we extended the motif activity response analysis approach that infers the regulatory impact of both transcription factors (TFs) and miRNAs from genome-wide expression states. Applying this approach to multiple experimental data sets generated from mouse embryonic stem cells (ESCs) that did or did not express miRNAs of the ESC-specific miR-290-295 cluster, we identified multiple TFs that are direct miRNA targets, some of which are known to be active during cell differentiation. Our results provide new insights into the transcription regulatory network downstream of ESC-specific miRNAs, indicating that these miRNAs act on cell cycle and chromatin regulators at several levels and downregulate TFs that are involved in the innate immune response.
-
+abstract: Mammalian gene expression is controlled at multiple levels by a variety of regulators, including chromatin modifiers, transcription factors and miRNAs. The latter are small, ncRNAs that inhibit the expression of target mRNAs by reducing both their stability and translation rate. In this review, we summarize the recent work towards characterizing miRNA targets that are themselves involved in the regulation of gene expression at the epigenetic level. Epigenetic regulators are strongly enriched among the predicted targets of miRNAs, which may contribute to the documented importance of miRNAs for pluripotency, organism development and somatic cell reprogramming.
 
 # Summary. An optional shortened abstract.
 summary: 

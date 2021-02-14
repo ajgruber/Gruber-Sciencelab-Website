@@ -1,5 +1,5 @@
 ---
-title: Human Cell Atlas
+title: The Human Cell Atlas
 summary: Analysis of single-cell RNA sequencing data.
 
 #date: "2020-04-27T00:00:00Z"

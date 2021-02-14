@@ -24,5 +24,5 @@ url_slides: ""
 url_video: ""
 ---
 
-Very recently, we became a member of the Human Cell Atlas (HCA). We aim to use the RNA sequencing data of hundreds of thousands of individual cells available from HCA to further characterize cell identity and function.
+Very recently, we became member of the Human Cell Atlas (HCA). We aim to use the RNA sequencing data of thousands of individual cells available within the HCA to further characterize cell identity and function.
 

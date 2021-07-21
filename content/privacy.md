@@ -12,5 +12,5 @@ header:
   image: ""
 ---
 
+In case you want to send us a message via our contact form the provided information (e.g. your name, email address, the message) is sent to our Netlify account and forwarded to our email account. Also, given our website is hosted on Netlify you agree to the [Netlify privacy policy](https://www.netlify.com/privacy/).
 
-Further, you agree to the [Netlify privacy policy](https://www.netlify.com/privacy/).

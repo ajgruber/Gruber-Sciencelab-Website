@@ -12,8 +12,8 @@ title: Studying gene expression regulation in health and disease
 ##  postcode: '94305'
 ##  country: United States
 
-summary: We are developing data science approaches, software tools and databases that allow to better understand the regulation of gene expression in health and disease.
-abstract: This is the abstract
+##summary: We are developing data science approaches, software tools and databases that allow to better understand the regulation of gene expression in health and disease.
+##abstract: This is the abstract
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -1,5 +1,5 @@
 ---
-title: Studying gene expression regulation in healthy and cancer cells
+title: Studying gene expression regulation in healthy and diseased cellular states
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org
@@ -12,7 +12,7 @@ title: Studying gene expression regulation in healthy and cancer cells
 ##  postcode: '94305'
 ##  country: United States
 
-##summary: We are developing data science approaches, software tools and databases that allow to better understand the regulation of gene expression in health and disease.
+summary: We develop data science approaches to study gene expression regulation in healthy and diseased cellular states. 
 ##abstract: This is the abstract
 
 # Talk start and end times.

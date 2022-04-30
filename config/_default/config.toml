@@ -96,7 +96,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     weight = 70.0
 
 # Params content.
-[params]
+##[params]
   [[params.social]]
     icon = "github"
     icon_pack = "fa"

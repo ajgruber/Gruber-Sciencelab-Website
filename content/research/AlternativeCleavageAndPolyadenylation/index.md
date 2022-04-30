@@ -31,9 +31,9 @@ tags: []
 featured: false
 
 image:
-  placement: 3
-  focal_point: Smart
-  alt_text: APA
+  placement: 1
+  focal_point: "Center"
+#  alt_text: APA
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 
 #links:

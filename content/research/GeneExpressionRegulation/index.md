@@ -1,5 +1,5 @@
 ---
-title: Studying gene expression regulation in health and disease
+title: Studying gene expression regulation in healthy and cancer cells
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org

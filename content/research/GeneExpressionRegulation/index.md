@@ -1,5 +1,5 @@
 ---
-title: Data Science Approaches, Software Tools & Databases  
+title: Studying gene expression regulation
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org

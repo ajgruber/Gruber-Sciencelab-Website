@@ -1,6 +1,6 @@
 # convert the pdf to a png
 convert -density 150 \
-DataScienceTools.pdf \
+/home/ajgruber/Documents/Website/GSLwebsite/Materials/ResearchImages/DataScienceTools/DataScienceTools.pdf \
 -quality 100 \
-DataScienceTools.png
+featured.png
 

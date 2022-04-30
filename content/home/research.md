@@ -33,7 +33,7 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Field to sort by, such as Date or Title
-  sort_by: 'title'
+  sort_by: 'Date'
   sort_ascending: false
 
 design:

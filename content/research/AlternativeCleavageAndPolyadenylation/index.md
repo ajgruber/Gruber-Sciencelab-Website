@@ -31,8 +31,10 @@ tags: []
 featured: false
 
 image:
+  placement: 3
+  focal_point: Smart
+  alt_text: APA
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 #links:
 #- icon: twitter

@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Data Science Approaches, Software Tools & Databases  
 
-event: Wowchemy Conference
-event_url: https://example.org
+##event: Wowchemy Conference
+##event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+##location: Wowchemy HQ
+##address:
+##  street: 450 Serra Mall
+##  city: Stanford
+##  region: CA
+##  postcode: '94305'
+##  country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: We are developing data science approaches, software tools and databases that allow to better understand the regulation of gene expression in health and disease.
+abstract: This is the abstract
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-04-11T00:00:00Z"
-date_end: "2022-04-11T00:00:00Z"
+date: "2021-02-08T13:00:00Z"
+date_end: "2021-02-08T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-04-11T00:00:00Z"
+publishDate: "2021-02-08T13:00:00Z"
 
 authors: []
 tags: []
@@ -31,43 +31,50 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+##slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+##projects:
+##- example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+To identify the upstream regulators that cause global changes in 3' processing, we have developed a statistical learning approach, termed KAPAC, which models transcript 3' end isoform usage in terms of binding sites of regulators. Making use of KAPAC we were able to identify regulators that can explain the global shortening of transcript length observed in the vast majority of human cancers. Our study was seminal to the field as it uncovered the long-sought RNA-binding protein that causes global transcript shortening in glioblastoma (Gruber et al., Genome Biology, 2018). 
 
-Slides can be added in a few ways:
+We have also developed a computational tool, TECtool, which makes use of a Bayes classifier in order to identify previously uncharacterized transcript isoforms that are ending within genomic regions currently annotated as 'intronic'. Applying TECtool to single-cell sequencing data, we found that the newly identified isoforms were expressed in subpopulations of cells (Gruber et al., Nature Methods, 2018).
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+As for transcript 3' ends there was no sufficient annotation available in the human genome, in 2016 we collected the vast majority of available 3' end sequencing datasets, developed a uniform processing pipeline for over a dozen different 3' end sequencing protocols and published the PolyASite database, which is a comprehensive resource of transcript 3' ends in human and mouse (Gruber et al., Genome Research, 2016). More recently, we have updated our database (PolyASite v2.0) and extended it to also cover worm (Herrmann et al., Nucleic Acids Research, 2020).
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+With the aim to model gene expression regulation, we have contributed towards the development of multiple computational tools, such as the Integrated System for Motif Activity Response Analysis (ISMARA), which enables the identification of transcription factors and epigenetic regulators, as well as associated regulatory circuitries that can explain global gene expression changes (Balwierz et al., Genome Research, 2014). Further, we have extended this approach by small regulatory RNAs (microRNAs) in order to study their role in embryonic stem cells (Gruber et al., Nucleic Acids Research, 2014).
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: Characterizing molecular cancer subtypes based on various genomic features 
+title: Identification of molecular cancer subtypes
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org
@@ -60,5 +60,5 @@ image:
 ##- example
 ---
 
-Cancer genomes harbour various molecular features, such as tumor mutation burden (TMB), specific driver gene mutations and mutational signatures. We subtype tumors based on their genomic features at a fine level of detail and investigate their association with clinical features.
+Tumors harbour various molecular features, such as tumor mutation burden, specific driver gene mutations and mutational signatures. We are subtyping cancers based on their various molecular alterations at a fine level of detail and investigate their association with clinical outcomes.
 

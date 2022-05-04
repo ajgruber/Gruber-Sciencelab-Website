@@ -60,5 +60,5 @@ image:
 ##- example
 ---
 
-Tumors harbour various molecular features, such as tumor mutation burden, specific driver gene mutations and mutational signatures. We are subtyping cancers based on various molecular alterations at a fine level of detail and investigate their association with clinical outcomes.
+Tumors harbour various molecular features, such as tumor mutation burden (single nucleotide variants and indels), specific driver gene mutations and mutational signatures. We are subtyping cancers based on various molecular alterations at a fine level of detail and investigate their association with clinical outcomes.
 

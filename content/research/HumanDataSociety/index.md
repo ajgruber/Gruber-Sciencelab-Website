@@ -64,5 +64,5 @@ image:
 
 Currently available therapies are mostly designed for the "average" patient and neglect patient-to-patient heterogeneity. However, these 'one-size-fits-all' treatment approaches are not suitable for most complex diseases, such as cancers, as they do not take into account the molecular properties of an individual disease. We extract previously unknown molecular signatures and unlock their biomarker potential for personalized medicine. By analyzing the signatures in terms of their occurrence within certain cancer types and their association with disease progression, we develop predictive models that can support personalized diagnostics and clinical decision making in the future, which therefore can improve the lives of patients and clinical professionals lastingly.
 
-
+Our research group is a member of the recently established [Center for Human Data Society](https://www.uni-konstanz.de/forschen/forschungseinrichtungen/centre-for-human-data-society/).
 

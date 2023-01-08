@@ -15,7 +15,7 @@ title = "Systems Biology & Biomedical Data Science Laboratory"
 #subtitle = "We develop and apply data science approaches to understand gene expression regulation in health and disease."
 #subtitle = "We develop and apply data science approaches to understand gene expression regulation in health and disease to improve HUMAN | DATA | SOCIETY."
 #subtitle = "We develop and apply data science approaches to understand gene expression regulation in health and disease, aiming to add to HUMAN | DATA | SOCIETY."
-subtitle = "We develop and apply data science approaches to understand human health and disease for HUMAN | DATA | SOCIETY."
+subtitle = "We develop and apply data science approaches to understand health and disease for HUMAN | DATA | SOCIETY."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

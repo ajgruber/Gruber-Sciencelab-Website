@@ -64,8 +64,8 @@ image:
 
 Currently available therapies are mostly designed for the "average" patient and neglect patient-to-patient heterogeneity. However, these 'one-size-fits-all' treatment approaches are not suitable for most complex diseases, such as cancers, as they do not take into account the molecular properties of an individual disease. In our research we develop data science tools and approaches that enable to extract previously unknown molecular signatures and unlock their biomarker potential for personalized medicine. By analyzing the signatures in terms of their occurrence within certain cancer types and their association with disease progression, we develop predictive models that can support personalized diagnostics and clinical decision making in the future. Personalized medicine can improve the lives of patients and clinical professionals lastingly. This is one of the ultimate aims of our research group, which is a member of the recently established [Centre for Human Data Society](https://www.uni-konstanz.de/forschen/forschungseinrichtungen/centre-for-human-data-society/).
 
-Related Publications
- - Gruber AJ#, Zavolan M#, “Alternative cleavage and polyadenylation in health and disease.”, Nature Reviews Genetics. 2019 Oct;20(10):599-614. [doi: 10.1038/s41576-019-0145-z](https://www.nature.com/articles/s41576-019-0145-z)
+# Related Publications
+ - **Gruber AJ**, Zavolan M, “Alternative cleavage and polyadenylation in health and disease.”, *Nature Reviews Genetics*. 2019 Oct;20(10):599-614. doi: 10.1038/s41576-019-0145-z [LINK](https://www.nature.com/articles/s41576-019-0145-z)
  
 
 

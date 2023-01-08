@@ -12,7 +12,7 @@ headless: true
 weight: 15
 
 title: Research Topics
-subtitle:
+subtitle: Human | Data | Society
 
 content:
   # Page type to display. E.g. post, talk, publication...

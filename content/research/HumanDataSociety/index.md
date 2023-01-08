@@ -1,5 +1,5 @@
 ---
-title: Human | Data | Society - Personalized Analytics
+title: Personalized Analytics for Human | Data | Society
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org

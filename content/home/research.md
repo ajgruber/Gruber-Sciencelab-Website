@@ -11,8 +11,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Research Topics
-subtitle: Human | Data | Society
+title: Research
+subtitle: Making use of data for human society.
 
 content:
   # Page type to display. E.g. post, talk, publication...

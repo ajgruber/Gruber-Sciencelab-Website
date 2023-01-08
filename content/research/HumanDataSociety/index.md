@@ -60,7 +60,7 @@ image:
 #   Otherwise, set `projects = []`.
 ##projects:
 ## - projects = ["genomics-england"]
-projects = ["genomics-england"]
+##projects = ["genomics-england"]
 ---
 
 ## Personalized medicine for Human | Data | Society
@@ -69,9 +69,9 @@ Currently available therapies are mostly designed for the "average" patient and 
 
 ## Related Publications
 
- - **Gruber AJ**, Zavolan M, *“Alternative cleavage and polyadenylation in health and disease.”*, **Nature Reviews Genetics**. 2019 Oct;20(10):599-614. [doi: 10.1038/s41576-019-0145-z]](https://www.nature.com/articles/s41576-019-0145-z)
+ - **Gruber AJ**, Zavolan M, *“Alternative cleavage and polyadenylation in health and disease.”*, ***Nature Reviews Genetics***. 2019 Oct;20(10):599-614. [doi: 10.1038/s41576-019-0145-z]](https://www.nature.com/articles/s41576-019-0145-z)
  - Islam SMA, Díaz-Gay M, Wu Y, Barnes M, Vangara R, Bergstrom EN, He Y, Vella M, Wang J, Teague JW, Clapham P, Moody S, Senkin S, Li YR, Riva L, Zhang T, **Gruber AJ**, Steele CD, Otlu B, Khandekar A, Abbasi A, Humphreys L, Syulyukina N, Brady SW, Alexandrov BS, Pillay N, Zhang J, Adams DJ, Martincorena I, Wedge DC, Landi MT, Brennan P, Stratton MR, Rozen SG, Alexandrov LB, *“Uncovering novel mutational signatures by de novo extraction with SigProfilerExtractor.”*, **Cell Genomics**. 2022 Nov 9;2(11). [doi: 10.1016/j.xgen.2022.100179](https://www.sciencedirect.com/science/article/pii/S2666979X22001240?via%3Dihub)
  - **Gruber AJ**, Schmidt R, Ghosh S, Martin G, Gruber AR, van Nimwegen E, Zavolan M, *“Discovery of physiological and cancer-related regulators of 3' UTR processing with KAPAC.”*, **Genome Biology**, 2018 Mar 28;19(1):44. [doi: 10.1186/s13059-018-1415-3](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1415-3)
-
+ - Dill MT, Makowska Z, Trincucci G, **Gruber AJ**, Vogt JE, Filipowicz M, Calabrese D, Krol I, Lau DT, Terracciano L, van Nimwegen E, Roth V, and Heim MH., *“Pegylated IFN-α regulates hepatic gene expression through transient Jak/STAT activation.”*, **Journal of Clinical Investigation**, 2014 Apr;124(4):1568-81. [doi: 10.1172/JCI70408](https://www.jci.org/articles/view/70408)
 
 

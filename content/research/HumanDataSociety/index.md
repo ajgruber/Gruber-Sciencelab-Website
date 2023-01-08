@@ -1,5 +1,5 @@
 ---
-title: Discovery of novel molecular signatures for personalized health care
+title: Discovery of molecular signatures for personalized health care
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org

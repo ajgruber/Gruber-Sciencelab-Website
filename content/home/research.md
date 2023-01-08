@@ -12,7 +12,7 @@ headless: true
 weight: 15
 
 title: Research
-subtitle: Making use of data for human society.
+subtitle: Utilizing data for human society.
 
 content:
   # Page type to display. E.g. post, talk, publication...

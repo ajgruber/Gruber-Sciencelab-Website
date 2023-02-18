@@ -1,5 +1,5 @@
 ---
-title: Human | Data | Society - Personalized Analytics
+title: Unraveling molecular signatures for personalized health care
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org
@@ -65,8 +65,6 @@ image:
 ## - Hoelzer M, Krähling V, Amman F, Barth E, Bernhart SH, Carmelo VA, Collatz M, Doose G, Eggenhofer F, Ewald J, Fallmann J, Feldhahn LM, Fricke M, Gebauer J, **Gruber AJ**, Hufsky F, Indrischek H, Kanton S, Linde J, Mostajo N, Ochsenreiter R, Riege K, Rivarola-Duarte L, Sahyoun AH, Saunders SJ, Seemann SE, Tanzer A, Vogel B, Wehner S, Wolfinger MT, Backofen R, Gorodkin J, Grosse I, Hofacker I, Hoffmann S, Kaleta C, Stadler PF, Becker S, Marz M, *"Differential transcriptional responses to Ebola and Marburg virus infection in bat and human cells."*, ***Scientific Reports***, 2016 Oct 7;6:34589. doi: 10.1038/srep34589. [[*URL*]](https://www.nature.com/articles/srep34589)
 
 ---
-
-## Unraveling molecular signatures for personalized health care
 
 Personalized medicine can improve the lives of patients and clinical professionals lastingly. Thus, developing data science approaches, tools and systems for personalized analytics is one of the aims of our research group, which is a member of the recently established [**Centre for Human Data Society**](https://www.uni-konstanz.de/forschen/forschungseinrichtungen/centre-for-human-data-society/). Currently available therapies are mostly designed for the "average" patient and neglect patient-to-patient heterogeneity. However, these 'one-size-fits-all' treatment approaches are not suitable for most complex diseases, such as cancers, as they do not take into account the molecular properties of an individual disease. In our research we develop and apply data science approaches that enable to extract previously unknown molecular signatures and unlock their biomarker potential for personalized medicine. By analyzing the signatures in terms of their occurrence within certain cancer types and their association with disease progression, we develop predictive models that aim to support personalized diagnostics and clinical decision making in the future.
 

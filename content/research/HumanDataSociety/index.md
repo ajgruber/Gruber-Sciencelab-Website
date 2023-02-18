@@ -1,5 +1,6 @@
 ---
-title: Unraveling molecular signatures for personalized analytics
+##title: Unraveling molecular signatures for personalized analytics
+title: Personalized analytics for Human | Data | Society.
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org

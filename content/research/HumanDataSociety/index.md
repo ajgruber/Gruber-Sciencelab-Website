@@ -1,5 +1,5 @@
 ---
-title: Unraveling molecular signatures for personalized medicine
+title: Unraveling molecular signatures for personalized analytics
 
 ##event: Wowchemy Conference
 ##event_url: https://example.org
